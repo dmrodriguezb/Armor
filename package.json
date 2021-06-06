@@ -22,5 +22,14 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmrodriguezb/Armor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmrodriguezb/Armor/issues"
+  },
+  "homepage": "https://github.com/dmrodriguezb/Armor#readme",
   "description": ""
 }
